@@ -1,0 +1,17 @@
+{
+  "name": "bedroom_automation_project",
+  "version": "1.0.0",
+  "description": "My own ecosystem to automatize my bedroom.",
+  "keywords": [
+    "bedroom",
+    "automation",
+    "ia"
+  ],
+  "license": "ISC",
+  "author": "hrefabi",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
